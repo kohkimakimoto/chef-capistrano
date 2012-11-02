@@ -1,4 +1,9 @@
-chef-capistrano
-===============
+# chef-capistrano
+
+capistranoをつかってchef-soloを実行する。
+
+
+
+
 
 
